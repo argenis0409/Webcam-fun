@@ -1,0 +1,23 @@
+{
+  "name": "webcam-fun",
+  "version": "1.0.0",
+  "description": "Having fun with the webcam",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static -H \"{\\\"Cache-Control\\\": \\\"no-cache, must-revalidate\\\"}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argenis0409/Webcam-fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argenis0409/Webcam-fun/issues"
+  },
+  "homepage": "https://github.com/argenis0409/Webcam-fun#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
